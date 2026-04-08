@@ -35,12 +35,6 @@ kernel/decision_core/mu02_decision_core.py
 
 ---
 
-## 🚧 Status
-
-Stable (Audited Version)
-
----
-
 ## 🔜 Next
 
 MU-03 Behavior Monitor
